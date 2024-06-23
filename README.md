@@ -1,5 +1,6 @@
 # 0utlier-demo
 This is my first  Git Repository. 
 <br>
-Author:palak gautam
+Author:Dipayan Mitra(0utlier
+)
 
